@@ -11,7 +11,3 @@ GRANT INSERT ON salesDB.* TO 'bob'@'localhost';
 -- Q4. GRANT INSERT ON salesDB.* TO 'bob'@'localhost';
 
 ALTER USER 'bob'@'localhost' IDENTIFIED BY 'P$55!23';
-
-
-
-ALTER USER 'bob'@'localhost' IDENTIFIED BY 'P$55!23';
